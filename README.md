@@ -4,10 +4,10 @@ run:
 ```
 yarn install --check-files
 ```
-and
+
 
 ```
-run: rails db:migrate
+rails db:migrate
 ```
 
 to start the aplication

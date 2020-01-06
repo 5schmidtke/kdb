@@ -10,4 +10,4 @@ yarn install --check-files
 rails db:migrate
 ```
 
-to start the aplication
+to start the application
